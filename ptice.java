@@ -14,6 +14,7 @@ public class ptice {
 		num.add(2);
 		num.add(95);
 		num.add(13);
+		num.add(100);
 		
 		for(int i : num)
 		{
